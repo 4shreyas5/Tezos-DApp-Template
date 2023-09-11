@@ -1,4 +1,4 @@
-# Getting Started with Lottery Frontend Dapp
+# Getting Started with Dapp
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -10,6 +10,6 @@ In the project directory, you can run:
 
 ## NFT Contracts
 
-Ghostnet contract : KT1WT6AjrzNhUqXZgc2JVE8bvRgb9WmkUXrT
+Ghostnet contract : ["Your Contract Address Here"]
 
 RPC URL : https://ghostnet.smartpy.io
