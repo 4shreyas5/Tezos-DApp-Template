@@ -8,8 +8,10 @@ In the project directory, you can run:
 
 ### `npm install`
 
-## NFT Contracts
 
 Ghostnet contract : ["Your Contract Address Here"]
 
 RPC URL : https://ghostnet.smartpy.io
+
+
+-> This is the Code snippet for basic Tezos Dapp Template
