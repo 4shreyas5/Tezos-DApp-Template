@@ -15,3 +15,4 @@ RPC URL : https://ghostnet.smartpy.io
 
 
 -> This is the Code snippet for basic Tezos Dapp Template
+-> Visit Here: https://www.youtube.com/live/yZs06D4tjI4?si=tbR-V6yAJ3_pIWnk
